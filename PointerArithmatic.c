@@ -10,6 +10,7 @@ int main()
 
     p = &(Arr[1]);
     q = &(Arr[4]);
+    
 
     printf("Data fetched to p : %d\n", *p);
     
