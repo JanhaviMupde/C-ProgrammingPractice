@@ -14,7 +14,5 @@ int main()
     
     printf("%d\n",Brr[0]);
     
-    printf("%d\n",Brr[0]);
-    
     return 0;
 }
