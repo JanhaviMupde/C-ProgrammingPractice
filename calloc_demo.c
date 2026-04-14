@@ -11,6 +11,7 @@ int main()
 
     // Step 1 : Allocate the memory
     Arr = (int *)calloc(length , sizeof(int));
+    
     if(Arr == NULL)
     {
         printf("Unable to allocate memory\n");
