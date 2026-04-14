@@ -15,6 +15,7 @@ int main()
     {
         printf("Unable to allocate memory\n");
     }
+        
     else
     {
         printf("Memory gets succesfully allocated\n");
