@@ -32,5 +32,6 @@
 
     float fPercentage = CalculatePercentage(iObtained,iTotal);
     printf("Percentage is :.%.2f%%\n",fPercentage);
+  
     return 0;
  }
