@@ -19,4 +19,4 @@ int main()
     printf("Data pointed by q is : %d\n",*q);  //allowed
 
     return 0;
-}
+
