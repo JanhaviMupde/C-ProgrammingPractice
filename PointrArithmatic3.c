@@ -14,6 +14,5 @@ int main()
     p = p+3;
 
     printf("Data pointed by p is : %d\n",*p);       //111
-
     return 0;
 }
