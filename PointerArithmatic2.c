@@ -19,6 +19,5 @@ int main()
     printf("Data fetched to p : %d\n", *p); //51
     printf("Data fetched to q : %d\n", *q); //101
 
-
     return 0;
 }
