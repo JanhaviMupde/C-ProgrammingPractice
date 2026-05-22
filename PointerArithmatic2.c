@@ -12,7 +12,7 @@ int main()
 
     printf("Data fetched to p : %d\n", *p); //21
     printf("Data fetched to q : %d\n", *q); //111
-
+    
     p++;
     q--;
 
