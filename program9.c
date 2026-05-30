@@ -7,7 +7,6 @@
             And if it is greater than 50 then it will be 500
     Stop
 */
-
 #include<stdio.h>
 
 # define ERR_INVALID_AGE -1
