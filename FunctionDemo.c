@@ -9,6 +9,5 @@ int main()
 
     Ans = Value1 + Value2;
     printf("Addition is : %d\n",Ans);
-
     return 0;
 }
