@@ -18,8 +18,7 @@ void Pattern(int iRow,int iCol)
             }
         }
         printf("\n");
-    }
-    
+    }  
 }
 int main()
 {
