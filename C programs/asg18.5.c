@@ -29,7 +29,6 @@ int main()
         printf("Unable to allocate memory");
         return -1;
     }
-
     printf("Enter %d elements:\n",iSize);
 
     for(iCnt = 0; iCnt < iSize; iCnt++)
